@@ -52,10 +52,3 @@ def run_mapreduce_job(mapper, reducer, input_directory, output_directory):
     _create_ouptput_directory(output_directory)
     _save_output(output_directory, sequence)
     _create_marker(output_directory)
-
-    
-    
-    
-    
-    
-    
